@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ADITYA RAJ" />
+   <h1 style="color:white">HIII I am ADITYA 🧑🏻‍💻</h1>
 </h1>
 
 ## Hey! 👋
